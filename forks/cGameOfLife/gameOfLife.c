@@ -2,6 +2,10 @@
 #include <stdlib.h>
 
 // Game of Life, created with the C programming language.
+// The purpose of this wasn't to create a unique GoL clone (the basis
+// of the code is taken from the rosetta code page containing Game of
+// Life for C, kudos to them, it's basically not my code), but rather
+// to improve my git abilities.
 // Created for the luls. - occabot
 
 void show(void *grid, int width, int height) {
